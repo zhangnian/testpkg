@@ -1,5 +1,5 @@
 package util
 
-func Sum6(a, b int) int {
+func Sum210(a, b int) int {
 	return a + b
 }
